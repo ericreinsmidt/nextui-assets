@@ -1,5 +1,12 @@
 # NextUI Assets
 
+<p align="center">
+  <a href="https://github.com/ericreinsmidt/nextui-assets/releases"><img alt="release" src="https://img.shields.io/github/v/release/ericreinsmidt/nextui-assets?color=2a8a28&labelColor=0c3818&cacheSeconds=3600"></a>
+  <a href="https://github.com/ericreinsmidt/nextui-assets/releases"><img alt="downloads" src="https://img.shields.io/github/downloads/ericreinsmidt/nextui-assets/total?color=2a8a28&labelColor=0c3818&cacheSeconds=3600"></a>
+  <a href="LICENSE"><img alt="license" src="https://img.shields.io/github/license/ericreinsmidt/nextui-assets?color=2a8a28&labelColor=0c3818&cacheSeconds=3600"></a>
+  <img alt="last commit" src="https://img.shields.io/github/last-commit/ericreinsmidt/nextui-assets?color=2a8a28&labelColor=0c3818&cacheSeconds=3600">
+</p>
+
 Vector device illustrations for [NextUI](https://github.com/LoveRetro/NextUI) TrimUI handhelds. Free to use in your projects, docs, splash screens, or anywhere else.
 
 ## Brick Hammer
